@@ -25,6 +25,13 @@
 
 ## 🌐 Let's Connect
 <p align="center">
+  <span style="margin-right: 20px;">
+    <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
+      <svg width="48" height="48" style="filter: drop-shadow(0 0 5px rgba(34, 197, 94, 0.8));">
+        <image href="https://img.icons8.com/ios-filled/50/22C55E/upwork.png" width="40" height="40" x="4" y="4" />
+      </svg>
+    </a>
+  </span>
   <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email">
   </a>
@@ -33,9 +40,6 @@
   </a>
   <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
-    <img src="https://img.icons8.com/ios-filled/50/22C55E/briefcase.png" width="40" alt="Upwork">
   </a>
 </p>
 
