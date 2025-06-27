@@ -34,12 +34,10 @@
   <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork Profile">
-    <img src="https://cdn.jsdelivr.net/gh/dawitterefe/readme@main/upwork-icon.svg" width="40" alt="Upwork">
-  </a>
-</p>
-
-
 <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white" alt="Upwork">
 </a>
+
+</p>
+
+
