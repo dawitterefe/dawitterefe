@@ -33,20 +33,6 @@
       alt="Top Languages">
   </picture>
 </a>
-
-<!-- GitHub Streak -->
-<a href="https://github.com/dawitterefe">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://streak-stats.demolab.com?user=dawitterefe&theme=merko&hide_border=true">
-    <img 
-      height="165" 
-      src="https://streak-stats.demolab.com?user=dawitterefe&hide_border=true&theme=default" 
-      alt="GitHub Streak">
-  </picture>
-</a>
-
 </div>
 
 
