@@ -25,24 +25,19 @@
 
 ## 🌐 Let's Connect
 <p align="center">
-  <span style="margin-right: 20px;">
-    <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
-      <svg width="48" height="48" style="filter: drop-shadow(0 0 5px rgba(34, 197, 94, 0.8));">
-        <image href="https://github.com/your-username/your-repo/raw/main/images/upwork.png" width="40" height="40" x="4" y="4" />
-      </svg>
-    </a>
-  </span>
+  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/upwork.png" width="40" alt="Upwork">
+  </a>
   <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
-    <img src="https://github.com/your-username/your-repo/raw/main/images/gmail.png" width="40" alt="Email">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/dawit-terefe/" target="_blank" title="LinkedIn">
-    <img src="https://github.com/your-username/your-repo/raw/main/images/linkedin.png" width="40" alt="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/linkedin.png" width="40" alt="LinkedIn">
   </a>
   <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram">
-    <img src="https://github.com/your-username/your-repo/raw/main/images/telegram.png" width="40" alt="Telegram">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
   </a>
 </p>
 
-*Icons by [Flaticon](https://www.flaticon.com).*
 
 
