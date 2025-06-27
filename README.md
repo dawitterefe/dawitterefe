@@ -26,22 +26,23 @@
 ## 🌐 Let's Connect
 
 <p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-  <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
+  <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/dawit-terefe/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/dawit-terefe/" target="_blank" title="LinkedIn" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/linkedin.png" width="40" alt="LinkedIn">
   </a>
-  <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram">
+  <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
+  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/upwork.png" width="40" alt="Upwork">
   </a>
-  <a href="https://x.com/dawiterefe" target="_blank" title="X">
+  <a href="https://x.com/dawiterefe" target="_blank" title="X" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/twitterx--v1.png" width="40" alt="X">
   </a>
 </p>
+
 
 
 
