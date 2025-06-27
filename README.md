@@ -24,61 +24,17 @@
 ---
 
 ### 🌐 Let's Connect
-
-<div align="center">
-  <table>
-    <tr>
-      <!-- Upwork Profile Preview -->
-      <td width="50%" align="center">
-        <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank">
-          <div style="background: #0f172a; border-radius: 10px; padding: 15px; border: 1px solid #22C55E; max-width: 300px;">
-            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-              <svg width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                <path fill="#22C55E" d="M18.561 13.158c-1.102 0-2.135-.467-3.074-1.227l.228-1.076l.008-.042c.207-1.143.849-3.06 2.839-3.06a2.705 2.705 0 0 1 2.703 2.703a2.707 2.707 0 0 1-2.704 2.702zm0-8.14c-2.539 0-4.51 1.649-5.31 4.366c-1.22-1.834-2.148-4.036-2.687-5.892H7.828v7.112a2.551 2.551 0 0 1-2.547 2.548a2.55 2.55 0 0 1-2.545-2.548V3.492H0v7.112c0 2.914 2.37 5.303 5.281 5.303c2.913 0 5.283-2.389 5.283-5.303v-1.19c.529 1.107 1.182 2.229 1.974 3.221l-1.673 7.873h2.797l1.213-5.71c1.063.679 2.285 1.109 3.686 1.109c3 0 5.439-2.452 5.439-5.45c0-3-2.439-5.439-5.439-5.439z"/>
-              </svg>
-              <div style="text-align: left;">
-                <div style="font-weight: bold; font-size: 18px;">Dawit Terefe</div>
-                <div style="font-size: 14px; color: #94a3b8;">Full-Stack Developer</div>
-              </div>
-            </div>
-            <div style="display: flex; gap: 15px; justify-content: center; margin-top: 10px;">
-              <div style="text-align: center;">
-                <div style="font-size: 24px; font-weight: bold;">5.0</div>
-                <div style="font-size: 12px; color: #94a3b8;">Rating</div>
-              </div>
-              <div style="text-align: center;">
-                <div style="font-size: 24px; font-weight: bold;">100%</div>
-                <div style="font-size: 12px; color: #94a3b8;">Job Success</div>
-              </div>
-              <div style="text-align: center;">
-                <div style="font-size: 24px; font-weight: bold;">50+</div>
-                <div style="font-size: 12px; color: #94a3b8;">Hours</div>
-              </div>
-            </div>
-            <div style="margin-top: 15px; background: #22C55E; border-radius: 5px; padding: 8px; font-weight: bold;">
-              View Profile
-            </div>
-          </div>
-        </a>
-      </td>
-      
-      <!-- Contact Icons -->
-      <td width="50%" align="center">
-        <div style="display: grid; grid-template-columns: 1fr; gap: 15px; justify-items: start;">
-          <a href="mailto:dawitterefe@outlook.com" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-            <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="30" alt="Email">
-            <span>dawitterefe@outlook.com</span>
-          </a>
-          <a href="https://www.linkedin.com/in/dawitterefe/" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-            <img src="https://img.icons8.com/ios-filled/50/22C55E/linkedin.png" width="30" alt="LinkedIn">
-            <span>dawitterefe</span>
-          </a>
-          <a href="https://t.me/dawit_terefe" target="_blank" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-            <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="30" alt="Telegram">
-            <span>dawit_terefe</span>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/dawitterefe/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/linkedin.png" width="40" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork Profile">
+    <img src="https://cdn.jsdelivr.net/gh/dawitterefe/readme@main/upwork-icon.svg" width="40" alt="Upwork">
+  </a>
+</p>
