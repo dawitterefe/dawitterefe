@@ -26,6 +26,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
+  <!-- Grouped icons -->
   <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email">
   </a>
@@ -35,12 +36,13 @@
   <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
   </a>
-  <span style="margin-left: 40px; filter: drop-shadow(0 0 6px #22C55E);">
-    <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
-      <img src="https://img.icons8.com/ios-filled/50/22C55E/upwork.png" width="40" alt="Upwork">
-    </a>
-  </span>
+  <!-- Upwork Icon in a span with hard-coded space and pseudo glow using emoji -->
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Adds visible horizontal gap -->
+  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/upwork.png" width="40" alt="Upwork">
+  </a>
 </p>
+
 
 
 
