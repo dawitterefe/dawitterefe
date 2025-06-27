@@ -33,20 +33,6 @@
       alt="Top Languages">
   </picture>
 </a>
-
-<!-- GitHub Streak -->
-<a href="https://github.com/dawitterefe">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://streak-stats.demolab.com?user=dawitterefe&background=0d1117&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&hide_border=true">
-    <img 
-      height="165" 
-      src="https://streak-stats.demolab.com?user=dawitterefe&hide_border=true&theme=default" 
-      alt="GitHub Streak">
-  </picture>
-</a>
-
 </div>
 
 
