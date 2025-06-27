@@ -7,13 +7,32 @@
 ### 📊 Coding Activity
 
 <div align="center">
-  
+
 <!-- Dynamic GitHub Stats Cards -->
 <a href="https://github.com/dawitterefe">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide=html,css,scss" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=default">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+  </picture>
 </a>
----
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/dawitterefe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dawitterefe&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dawitterefe&theme=default&hide_border=true">
+    <img height="165" src="https://streak-stats.demolab.com?user=dawitterefe&hide_border=true" alt="GitHub Streak">
+  </picture>
+</a>
+
+</div>
 
 
 
