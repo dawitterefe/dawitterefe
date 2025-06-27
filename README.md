@@ -27,7 +27,7 @@
 <p align="center">
 <span style="margin-right: 20px;">
   <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
-    <img src="https://github.com/your-username/your-repo/raw/main/images/upwork-glow.png" width="40" alt="Upwork">
+    <img src="https://github.com/your-username/your-repo/raw/main/images/upwork-glow.png](https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000)" width="40" alt="Upwork">
   </a>
 </span>
   <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
