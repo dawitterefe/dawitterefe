@@ -25,7 +25,7 @@
 
 ## 🌐 Let's Connect
 
-<p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email">
   </a>
