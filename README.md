@@ -25,49 +25,17 @@
 
 ## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
-[![Email](https://img.icons8.com/ios-filled/50/22C55E/gmail.png)](mailto:dawitterefe@outlook.com)
-[![LinkedIn](https://img.icons8.com/ios-filled/50/22C55E/linkedin.png)](https://www.linkedin.com/in/dawit-terefe/)
-[![Telegram](https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png)](https://t.me/dawit_terefe)
-[![Upwork](https://img.icons8.com/ios-filled/50/22C55E/upwork.png)](https://www.upwork.com/freelancers/~01a1d50dee01a4306a)
-[![X](https://img.icons8.com/ios-filled/50/22C55E/twitterx--v1.png)](https://x.com/dawiterefe)
+[![Email](https://img.icons8.com/ios-filled/40/22C55E/gmail.png)](mailto:dawitterefe@outlook.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/40/22C55E/linkedin.png)](https://www.linkedin.com/in/dawit-terefe/)
+[![Telegram](https://img.icons8.com/ios-filled/40/22C55E/telegram-app.png)](https://t.me/dawit_terefe)
+[![Upwork](https://img.icons8.com/ios-filled/40/22C55E/upwork.png)](https://www.upwork.com/freelancers/~01a1d50dee01a4306a)
+[![X](https://img.icons8.com/ios-filled/40/22C55E/twitterx--v1.png)](https://x.com/dawiterefe)
 
-</p>
-
-## 🌐 Let's Connect
-
-<p align="center">
-
-[![Email](https://img.icons8.com/ios-filled/60/22C55E/gmail.png)](mailto:dawitterefe@outlook.com)
-[![LinkedIn](https://img.icons8.com/ios-filled/60/22C55E/linkedin.png)](https://www.linkedin.com/in/dawit-terefe/)
-[![Telegram](https://img.icons8.com/ios-filled/60/22C55E/telegram-app.png)](https://t.me/dawit_terefe)
-[![Upwork](https://img.icons8.com/ios-filled/60/22C55E/upwork.png)](https://www.upwork.com/freelancers/~01a1d50dee01a4306a)
-[![X](https://img.icons8.com/ios-filled/60/22C55E/twitterx--v1.png)](https://x.com/dawiterefe)
-
-</p>
-
-
-
-## 🌐 Let's Connect
-
-<div style="text-align: center;">
-  <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/48/22C55E/gmail.png" width="40" height="40" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/dawit-terefe/" target="_blank" title="LinkedIn" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/48/22C55E/linkedin.png" width="40" height="40" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/48/22C55E/telegram-app.png" width="40" height="40" alt="Telegram">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/48/22C55E/upwork.png" width="40" height="40" alt="Upwork">
-  </a>
-  <a href="https://x.com/dawiterefe" target="_blank" title="X" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/48/22C55E/twitterx--v1.png" width="40" height="40" alt="X">
-  </a>
 </div>
+
+
 
 
 
