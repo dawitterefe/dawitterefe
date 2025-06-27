@@ -13,21 +13,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=transparent" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide=html,css,scss" />
 </a>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/dawitterefe">
-  <img height="165" src="https://streak-stats.demolab.com?user=dawitterefe&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-
-</div>
-
 ---
 
-### 📊 Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&theme=dark&count_private=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165">
-</p>
+
 
 ---
 ## 🌐 Let's Connect
