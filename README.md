@@ -35,6 +35,19 @@
 
 </p>
 
+## 🌐 Let's Connect
+
+<p align="center">
+
+[![Email](https://img.icons8.com/ios-filled/60/22C55E/gmail.png)](mailto:dawitterefe@outlook.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/60/22C55E/linkedin.png)](https://www.linkedin.com/in/dawit-terefe/)
+[![Telegram](https://img.icons8.com/ios-filled/60/22C55E/telegram-app.png)](https://t.me/dawit_terefe)
+[![Upwork](https://img.icons8.com/ios-filled/60/22C55E/upwork.png)](https://www.upwork.com/freelancers/~01a1d50dee01a4306a)
+[![X](https://img.icons8.com/ios-filled/60/22C55E/twitterx--v1.png)](https://x.com/dawiterefe)
+
+</p>
+
+
 
 ## 🌐 Let's Connect
 
