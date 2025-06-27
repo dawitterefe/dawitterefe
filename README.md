@@ -19,18 +19,6 @@
 
 ---
 
-### 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/dawitterefe/ShopEase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawitterefe&repo=ShopEase&theme=dark" width="400">
-  </a>
-  <a href="https://github.com/dawitterefe/TaskFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dawitterefe&repo=TaskFlow&theme=dark" width="400">
-  </a>
-</p>
-
----
-
 ### 📊 Coding Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&theme=dark&count_private=true&hide_border=true" height="165">
