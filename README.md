@@ -8,70 +8,31 @@
 
 <div align="center">
 
-<svg width="100%" height="200">
-  <style>
-    .stat-card {
-      transition: all 0.3s ease;
-    }
-    [data-theme=light] .stat-card,
-    [data-theme=light_colorblind] .stat-card,
-    [data-theme=light_tritanopia] .stat-card {
-      filter: brightness(1.05) saturate(0.9);
-    }
-    [data-theme=dark] .stat-card {
-      background-color: #1a2a40;
-      --title-color: #6a9bd8;
-      --text-color: #bfd7ed;
-      --icon-color: #6a9bd8;
-      --ring-color: #4a7bc3;
-    }
-    [data-theme=dark_colorblind] .stat-card {
-      background-color: #1a2a40;
-      --title-color: #58a6ff;
-      --text-color: #c9d1d9;
-      --icon-color: #58a6ff;
-      --ring-color: #1f6feb;
-    }
-    [data-theme=dark_tritanopia] .stat-card {
-      background-color: #1a2a40;
-      --title-color: #6a9bd8;
-      --text-color: #bfd7ed;
-      --icon-color: #6a9bd8;
-      --ring-color: #4a7bc3;
-    }
-    [data-theme=dark_dimmed] .stat-card {
-      background-color: #22272e;
-      --title-color: #6cb6ff;
-      --text-color: #adbac7;
-      --icon-color: #6cb6ff;
-      --ring-color: #4184e4;
-    }
-  </style>
-  
-  <foreignObject x="0" y="0" width="32%" height="200">
-    <div class="stat-card" xmlns="http://www.w3.org/1999/xhtml">
-      <a href="https://github.com/dawitterefe">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=inherit&title_color=var(--title-color)&text_color=var(--text-color)&icon_color=var(--icon-color)&ring_color=var(--ring-color)" alt="GitHub Stats">
-      </a>
-    </div>
-  </foreignObject>
-  
-  <foreignObject x="34%" y="0" width="32%" height="200">
-    <div class="stat-card" xmlns="http://www.w3.org/1999/xhtml">
-      <a href="https://github.com/dawitterefe">
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&bg_color=inherit&title_color=var(--title-color)&text_color=var(--text-color)&icon_color=var(--icon-color)" alt="Top Languages">
-      </a>
-    </div>
-  </foreignObject>
-  
-  <foreignObject x="68%" y="0" width="32%" height="200">
-    <div class="stat-card" xmlns="http://www.w3.org/1999/xhtml">
-      <a href="https://github.com/dawitterefe">
-        <img height="165" src="https://streak-stats.demolab.com?user=dawitterefe&background=inherit&stroke=var(--ring-color)&ring=var(--ring-color)&fire=var(--icon-color)&currStreakLabel=var(--title-color)&sideLabels=var(--text-color)&dates=var(--text-color)&sideNums=var(--text-color)&currStreakNum=var(--text-color)&hide_border=true" alt="GitHub Streak">
-      </a>
-    </div>
-  </foreignObject>
-</svg>
+<!-- GitHub Stats -->
+<a href="https://github.com/dawitterefe">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=223344&title_color=7eb0ff&text_color=d0e0f0&icon_color=7eb0ff&ring_color=5a8bd8">
+    <img 
+      height="165" 
+      src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default" 
+      alt="GitHub Stats">
+  </picture>
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/dawitterefe">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&bg_color=223344&title_color=7eb0ff&text_color=d0e0f0&icon_color=7eb0ff">
+    <img 
+      height="165" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=default" 
+      alt="Top Languages">
+  <picture>
+</a>
 
 </div>
 
