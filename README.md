@@ -1,7 +1,3 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dawit+Terefe;Full-Stack+Developer;From+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG">
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dawit+Terefe;Full-Stack+Developer;From+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG">
 </p>
