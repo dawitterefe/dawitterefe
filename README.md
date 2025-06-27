@@ -13,7 +13,7 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=1f6feb">
+      srcset="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=1a2a40&title_color=6a9bd8&text_color=bfd7ed&icon_color=6a9bd8&ring_color=4a7bc3">
     <img 
       height="165" 
       src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default" 
@@ -26,7 +26,7 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&bg_color=1a2a40&title_color=6a9bd8&text_color=bfd7ed&icon_color=6a9bd8">
     <img 
       height="165" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=default" 
