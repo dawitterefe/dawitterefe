@@ -22,19 +22,17 @@
 </p>
 
 ---
-
 ## 🌐 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.icons8.com/ios-filled/40/22C55E/gmail.png)](mailto:dawitterefe@outlook.com)
-[![LinkedIn](https://img.icons8.com/ios-filled/40/22C55E/linkedin.png)](https://www.linkedin.com/in/dawit-terefe/)
-[![Telegram](https://img.icons8.com/ios-filled/40/22C55E/telegram-app.png)](https://t.me/dawit_terefe)
-[![Upwork](https://img.icons8.com/ios-filled/40/22C55E/upwork.png)](https://www.upwork.com/freelancers/~01a1d50dee01a4306a)
+[![Email](https://img.icons8.com/ios-filled/40/22C55E/gmail.png)](mailto:dawitterefe@outlook.com)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.icons8.com/ios-filled/40/22C55E/linkedin.png)](https://www.linkedin.com/in/dawit-terefe/)&nbsp;&nbsp;&nbsp;
+[![Telegram](https://img.icons8.com/ios-filled/40/22C55E/telegram-app.png)](https://t.me/dawit_terefe)&nbsp;&nbsp;&nbsp;
+[![Upwork](https://img.icons8.com/ios-filled/40/22C55E/upwork.png)](https://www.upwork.com/freelancers/~01a1d50dee01a4306a)&nbsp;&nbsp;&nbsp;
 [![X](https://img.icons8.com/ios-filled/40/22C55E/twitterx--v1.png)](https://x.com/dawiterefe)
 
 </div>
-
 
 
 
