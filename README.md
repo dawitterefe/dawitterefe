@@ -38,3 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/dawitterefe/readme@main/upwork-icon.svg" width="40" alt="Upwork">
   </a>
 </p>
+
+
+<a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white" alt="Upwork">
+</a>
