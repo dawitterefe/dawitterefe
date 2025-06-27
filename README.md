@@ -4,14 +4,22 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react" alt="React Native">
-</p>
+### 📊 Coding Activity
+
+<div align="center">
+  
+<!-- Dynamic GitHub Stats Cards -->
+<a href="https://github.com/dawitterefe">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide=html,css,scss" />
+</a>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/dawitterefe">
+  <img height="165" src="https://streak-stats.demolab.com?user=dawitterefe&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
+</div>
 
 ---
 
