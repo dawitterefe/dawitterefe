@@ -25,7 +25,8 @@
 
 ## 🌐 Let's Connect
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <!-- Main social icons -->
   <a href="mailto:dawitterefe@outlook.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email">
   </a>
@@ -35,14 +36,14 @@
   <a href="https://t.me/dawit_terefe" target="_blank" title="Telegram">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
   </a>
-  <!-- Call-to-action + Upwork -->
-  <span style="margin-left: 40px; font-weight: bold; color: #22C55E; vertical-align: middle;">
-    💼 <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" style="text-decoration: none; color: #22C55E;">Hire Me</a>
-    <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
-      <img src="https://img.icons8.com/ios-filled/50/22C55E/upwork.png" width="40" alt="Upwork" style="vertical-align: middle;">
-    </a>
-  </span>
+
+  <!-- Call-to-Action: Hire Me with glowing Upwork icon -->
+  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork" style="display: flex; align-items: center; gap: 8px; padding: 6px 12px; background-color: #22C55E; color: white; font-weight: bold; border-radius: 8px; text-decoration: none;">
+    💼 Hire Me
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/upwork.png" width="28" alt="Upwork" style="filter: drop-shadow(0 0 4px #ffffff);">
+  </a>
 </p>
+
 
 
 
