@@ -37,7 +37,7 @@
     <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
   </a>
   <!-- Upwork Icon in a span with hard-coded space and pseudo glow using emoji -->
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Adds visible horizontal gap -->
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <!-- Adds visible horizontal gap -->
   <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
     <img src="https://img.icons8.com/ios-filled/50/22C55E/upwork.png" width="40" alt="Upwork">
   </a>
