@@ -23,18 +23,20 @@
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Let's Connect
 <p align="center">
-  <a href="https://dawitte.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/22C55E/domain.png" width="36" alt="Portfolio">
-  </a>
-  <a href="https://twitter.com/dawitte" target="_blank">
-    <img src="https://img.icons8.com/ios/50/22C55E/twitter.png" width="36" alt="Twitter">
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/gmail.png" width="40" alt="Email" title="Email">
   </a>
   <a href="https://www.linkedin.com/in/dawit-terefe/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/22C55E/linkedin.png" width="36" alt="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/linkedin.png" width="40" alt="LinkedIn" title="LinkedIn">
   </a>
-  <a href="mailto:dawit.terefe@example.com">
-    <img src="https://img.icons8.com/ios/50/22C55E/gmail.png" width="36" alt="Email">
+  <a href="https://t.me/your-telegram" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram" title="Telegram">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank">
+    <svg width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#22C55E" d="M18.561 13.158c-1.102 0-2.135-.467-3.074-1.227l.228-1.076l.008-.042c.207-1.143.849-3.06 2.839-3.06a2.705 2.705 0 0 1 2.703 2.703a2.707 2.707 0 0 1-2.704 2.702zm0-8.14c-2.539 0-4.51 1.649-5.31 4.366c-1.22-1.834-2.148-4.036-2.687-5.892H7.828v7.112a2.551 2.551 0 0 1-2.547 2.548a2.55 2.55 0 0 1-2.545-2.548V3.492H0v7.112c0 2.914 2.37 5.303 5.281 5.303c2.913 0 5.283-2.389 5.283-5.303v-1.19c.529 1.107 1.182 2.229 1.974 3.221l-1.673 7.873h2.797l1.213-5.71c1.063.679 2.285 1.109 3.686 1.109c3 0 5.439-2.452 5.439-5.45c0-3-2.439-5.439-5.439-5.439z"/>
+    </svg>
   </a>
 </p>
