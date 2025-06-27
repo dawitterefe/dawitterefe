@@ -13,7 +13,7 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=merko">
+      srcset="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=1f6feb">
     <img 
       height="165" 
       src="https://github-readme-stats.vercel.app/api?username=dawitterefe&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default" 
@@ -26,13 +26,27 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=merko">
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
     <img 
       height="165" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitterefe&layout=compact&hide_border=true&langs_count=8&theme=default" 
       alt="Top Languages">
   </picture>
 </a>
+
+<!-- GitHub Streak -->
+<a href="https://github.com/dawitterefe">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://streak-stats.demolab.com?user=dawitterefe&background=0d1117&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&hide_border=true">
+    <img 
+      height="165" 
+      src="https://streak-stats.demolab.com?user=dawitterefe&hide_border=true&theme=default" 
+      alt="GitHub Streak">
+  </picture>
+</a>
+
 </div>
 
 
