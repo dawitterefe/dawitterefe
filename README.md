@@ -35,7 +35,7 @@
     <img src="https://img.icons8.com/ios-filled/50/22C55E/telegram-app.png" width="40" alt="Telegram">
   </a>
   <a href="https://www.upwork.com/freelancers/~01a1d50dee01a4306a" target="_blank" title="Upwork">
-    <img src="https://img.icons8.com/ios-filled/50/22C55E/freelance.png" width="40" alt="Upwork">
+    <img src="https://img.icons8.com/ios-filled/50/22C55E/briefcase.png" width="40" alt="Upwork">
   </a>
 </p>
 
