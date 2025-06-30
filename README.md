@@ -17,6 +17,8 @@
   </a>
 </p>
 
+*Icons by [Flaticon](https://www.flaticon.com).*
+
 ### 📊 Coding Activity
 
 <div align="center">
