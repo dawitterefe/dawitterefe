@@ -4,6 +4,19 @@
 
 ---
 
+## 💻 Tech Stack
+<p align="center">
+  <a href="https://laravel.com" target="_blank" title="Laravel">
+    <img src="https://github.com/your-username/your-repo/raw/main/images/laravel.png" width="40" alt="Laravel">
+  </a>
+  <a href="https://nextjs.org" target="_blank" title="Next.js">
+    <img src="https://github.com/your-username/your-repo/raw/main/images/nextjs.png" width="40" alt="Next.js">
+  </a>
+  <a href="https://dotnet.microsoft.com" target="_blank" title="ASP.NET">
+    <img src="https://github.com/your-username/your-repo/raw/main/images/aspnet.png" width="40" alt="ASP.NET">
+  </a>
+</p>
+
 ### 📊 Coding Activity
 
 <div align="center">
