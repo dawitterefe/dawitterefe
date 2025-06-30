@@ -3,21 +3,14 @@
 </p>
 
 ---
-### 🛠️ My Tech StackAdd commentMore actions
+### 🛠️ My Core Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" style="margin: 0 12px;">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" style="margin: 0 12px;">
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" alt="ASP.NET" style="margin: 0 12px;">
+</p>
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 
 ---
 ### 📊 Coding Activity
