@@ -6,9 +6,9 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  [![Laravel](https://github.com/your-username/your-repo/raw/main/images/laravel.png)](https://laravel.com)  
-  [![Next.js](https://github.com/your-username/your-repo/raw/main/images/react.png)](https://nextjs.org)  
-  [![ASP.NET](https://github.com/your-username/your-repo/raw/main/images/aspnet.png)](https://dotnet.microsoft.com)
+  [![Laravel](https://github.com/your-username/your-repo/raw/main/images/laravel.png)](https://laravel.com);
+  [![Next.js](https://github.com/your-username/your-repo/raw/main/images/react.png)](https://nextjs.org);
+  [![ASP.NET](https://github.com/your-username/your-repo/raw/main/images/aspnet.png)](https://dotnet.microsoft.com);
 </div>
 
 ---
